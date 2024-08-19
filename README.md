@@ -6,6 +6,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 - 🎮 I also enjoy playing online games in my free time.
 - 💻 Currently exploring various programming languages and technologies.
 - 🌟 Proud creator of [Task Management App: Taskly](https://github.com/adiiverma40/TaskManagementApp), a project built using HTML, CSS, JS, and JS API.
+- 🌟 Proud creator of [The Blog App: BlogWrite](https://github.com/adiiverma40/BlogWrite), a project built using HTML, CSS, JS, React JS and Appwrite API.
 
 ### Favorite Quote:
 "Discipline is the most powerful weapon."
