@@ -1,14 +1,6 @@
-# Hi there! 👋 I'm Adii Verma
+# I'm Adii.
+## welcome 
 
-Welcome to my GitHub profile! Here's a little bit about me:
-
-- 👾 I'm passionate about coding and constantly upgrading my knowledge.
-- 🎮 I also enjoy playing online games in my free time.
-- 💻 Currently exploring various programming languages and technologies.
-- 🌟 Proud creator of [Task Management App: Taskly](https://github.com/adiiverma40/TaskManagementApp), a project built using HTML, CSS, JS, and JS API.
-- 🌟 Proud creator of [The Blog App: BlogWrite](https://github.com/adiiverma40/BlogWrite), a project built using HTML, CSS, JS, React JS and Appwrite API.
-
-### Favorite Quote:
-"Discipline is the most powerful weapon."
-
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to connect!
+## *Projects :-*
+- Tunelog :- Creates playlist using user interaction with song, interaction like `play, skip , repeat, complete`, etc. For Navidrome
+- Tunelog Reporter:- An watcher app for `tunelog` that watches your `notification` for song states, when offline it store it in db, when connected push it to `tunelog endpoint` for better generation of playlist while you are offline or cached song by symphonium or other apps
