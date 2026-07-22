@@ -20,7 +20,7 @@ text, tspan {white-space: pre;}
 
 <text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">adiiverma</tspan> -——————————————————————————————————————————————————-—-
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Windows, Arch, Android 15</tspan>
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Linux(Arch Btw), Android 15</tspan>
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">18 years, 1 month, 11 days</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">B.Tech Student</tspan>
 <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Zed Editor</tspan>
@@ -31,8 +31,12 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="210" class="cc">. </tspan>
 <tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Interests</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Anime, Manhwa, Gaming</tspan>
 <tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">SelfHost</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Navidrome (Local Music Server)</tspan>
-<tspan x="390" y="290">- Contact</tspan> -——————————————————————————————————————————————————-—-
+<tspan x="390" y="290">- Contacts</tspan> -——————————————————————————————————————————————————-—-
 <tspan x="390" y="320" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">adiiverma40@gmail.com</tspan>
+<tspan x="390" y="340" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">@aawwdit</tspan>
+<tspan x="390" y="370">- Projects</tspan> -——————————————————————————————————————————————————-—-
+<tspan x="390" y="395" class="cc">. </tspan><tspan class="key">Tunelog</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Navidrome Companion</tspan>
+
 <tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————————-—-
 <tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ..... </tspan><tspan class="value" id="repo_data">7</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">7</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............ </tspan><tspan class="value" id="star_data">99</tspan>
 <tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commmits</tspan>:<tspan class="cc" id="commit_data_dots"> ................... </tspan><tspan class="value" id="commit_data">322</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">0</tspan>
