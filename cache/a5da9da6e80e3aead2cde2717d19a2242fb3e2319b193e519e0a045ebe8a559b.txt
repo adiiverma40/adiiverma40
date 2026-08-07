@@ -1,5 +1,5 @@
 This is a cache of all of the repositories I own, have contributed to, or am a member of.
-i want to re run the action, i really want to re run the action , lets re run the action bot 
+I want to re run the action, i really want to re run the action , lets re run the action bot 
 
 repository (hashed)  total commits  my commits  LOC added by me  LOC deleted by me
          \                \                \           \_____________  \
