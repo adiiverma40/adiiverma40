@@ -464,9 +464,23 @@ def stars_counter(data):
     Count total stars in repositories owned by me
     """
     total_stars = 0
-    for node in data:
-        total_stars += node["node"]["stargazers"]["totalCount"]
+
+    # If the API returned None for the edges, return 0 early
+    if not data:
+        return total_stars
+
+    for edge in data:
+        try:
+            # Attempt to safely add the totalCount
+            total_stars += edge["node"]["stargazers"]["totalCount"]
+        except (TypeError, KeyError):
+            # If edge, "node", or "stargazers" is None or missing, skip it
+            print(edge)
+            continue
+
     return total_stars
+
+
 
 
 def svg_overwrite(
@@ -485,7 +499,7 @@ def svg_overwrite(
     tree = etree.parse(filename)
     root = tree.getroot()
     justify_format(root, "commit_data", commit_data, 22)
-    justify_format(root, 'age_data', age_data, 48)
+    justify_format(root, "age_data", age_data, 48)
     justify_format(root, "star_data", star_data, 14)
     justify_format(root, "repo_data", repo_data, 6)
     justify_format(root, "contrib_data", contrib_data)
@@ -693,8 +707,4 @@ if __name__ == "__main__":
     for funct_name, count in QUERY_COUNT.items():
         print("{:<28}".format("   " + funct_name + ":"), "{:>6}".format(count))
 
-
-
-
-
-    # re run the action bot 
+    # re run the action bot
